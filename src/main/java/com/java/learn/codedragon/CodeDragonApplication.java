@@ -15,7 +15,7 @@ public class CodeDragonApplication {
 
     @RequestMapping()
     public String hello(){
-        return "hello spring boot \n 谢谢阅读! 微信搜索：编程孝龙";
+        return "hello spring boot \n 谢谢阅读! 微信搜索：编程小龙";
     }
 
 }
